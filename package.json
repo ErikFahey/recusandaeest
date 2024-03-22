@@ -1,0 +1,20 @@
+{
+  "name": "recusandaeest",
+  "version": "1.0.0",
+  "description": "shared eslint config for typescript",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ErikFahey/recusandaeest.git"
+  },
+  "keywords": [
+    "illum",
+    "typescript",
+    "officia"
+  ],
+  "author": "LavonRohan",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": ">= 6"
+  }
+}
